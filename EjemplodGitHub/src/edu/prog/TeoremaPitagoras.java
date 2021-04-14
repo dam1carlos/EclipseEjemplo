@@ -16,6 +16,8 @@ public class TeoremaPitagoras {
 		hipotenusa = Math.sqrt(Math.pow(cateto1, 2) + Math.pow(cateto2, 2));
 
 		System.out.println(hipotenusa);
+		
+		sc.close();
 	}
 
 }
